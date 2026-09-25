@@ -107,3 +107,54 @@ heiliao.com##.component-advertises > .van-overlay
 
 ! 17 thg 8, 2026 https://cap3.lifestyle
 cap3.lifestyle##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z-\[9999\].inset-0.fixed
+
+! May 26, 2026 https://xamvn.buzz
+xamvn.buzz##.float-contact
+xamvn.buzz##.p-body-pageContent > div > [href^="https://www.13032026x.com/"] > [src="https://xcdn.cloud/files/photos/gif-2-resize-468-x80_1777534605.gif"]
+
+! May 26, 2026 https://phe69.nl
+phe69.nl##.active.ad-overlay-js
+phe69.nl##.ai-viewport-1
+
+! May 26, 2026 https://heiliao.com
+heiliao.com##.component-advertises > .van-overlay
+heiliao.com##.component-advertises-0
+heiliao.com##.slider-wrapper
+
+! May 26, 2026 https://51cg1.com
+51cg1.com##.recommend-wrapper
+
+! Jul 2, 2026 https://voz.vn
+voz.vn##[src="https://content.accesstrade.vn/evidence_add_lost/2026/img/upload/1782901020_add_lost_add_lost_tmpkr5r8ybs.png"]
+voz.vn###floating-ad-img-container
+voz.vn##.samItem
+
+! Jul 16, 2026 https://www.nhatot.com
+www.nhatot.com##.ct_sbp__pijkp77
+
+! Jul 28, 2026 https://51cg1.com
+51cg1.com##.post > div > .horizontal-block
+51cg1.com##.horizontal-block
+
+! Jul 29, 2026 https://heiliao.com
+heiliao.com##div.video-item:nth-of-type(1)
+heiliao.com##div.video-item:nth-of-type(2)
+heiliao.com##div.video-item:nth-of-type(3)
+heiliao.com##div.video-item:nth-of-type(4)
+heiliao.com##div.video-item:nth-of-type(5)
+heiliao.com##div.video-item:nth-of-type(6)
+heiliao.com##div.video-item:nth-of-type(7)
+heiliao.com##div.video-item:nth-of-type(8)
+heiliao.com##div.video-item:nth-of-type(9)
+heiliao.com##div.video-item:nth-of-type(10)
+heiliao.com##div.video-item:nth-of-type(12)
+heiliao.com##div.video-item:nth-of-type(14)
+heiliao.com##div.video-item:nth-of-type(16)
+heiliao.com##div.video-item:nth-of-type(18)
+heiliao.com##div.video-item:nth-of-type(20)
+heiliao.com##div.video-item:nth-of-type(22)
+heiliao.com##div.video-item:nth-of-type(24)
+heiliao.com##div.video-item:nth-of-type(26)
+heiliao.com##div.video-item:nth-of-type(28)
+heiliao.com##div.video-item:nth-of-type(30)
+
