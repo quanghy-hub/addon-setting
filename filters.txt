@@ -24,12 +24,12 @@ y6blr.ptbqqtmq.xyz##.slider-wrapper
 
 ! 18 thg 10, 2025 https://dzrfl.ykipqff.cc
 dzrfl.ykipqff.cc##a.gotoclick.infor > .fill-img
-dzrfl.ykipqff.cc##.gotoclick.cursor-pointer > .video-item-img > .mask
-dzrfl.ykipqff.cc##.gotoclick.cursor-pointer > .video-item-img > .placeholder-img
-dzrfl.ykipqff.cc##div.video-item:nth-of-type(2)
-dzrfl.ykipqff.cc##.gotoclick.cursor-pointer > .video-item-img
+! [DA TAT DE KHONG CHAN VIDEO CHINH] dzrfl.ykipqff.cc##.gotoclick.cursor-pointer > .video-item-img > .mask
+! [DA TAT DE KHONG CHAN VIDEO CHINH] dzrfl.ykipqff.cc##.gotoclick.cursor-pointer > .video-item-img > .placeholder-img
+! [DA TAT DE KHONG CHAN VIDEO CHINH] dzrfl.ykipqff.cc##div.video-item:nth-of-type(2)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] dzrfl.ykipqff.cc##.gotoclick.cursor-pointer > .video-item-img
 dzrfl.ykipqff.cc##.addbox
-dzrfl.ykipqff.cc##div.video-item:nth-of-type(1)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] dzrfl.ykipqff.cc##div.video-item:nth-of-type(1)
 
 ! 28 thg 11, 2025 https://zmlbf.stslotc.xyz
 zmlbf.stslotc.xyz##.slider-wrapper
@@ -39,15 +39,15 @@ zmlbf.stslotc.xyz##.addbox
 ieslb.ckwlwdcy.cc##.event-notice > .modal
 ieslb.ckwlwdcy.cc##.addbox
 ieslb.ckwlwdcy.cc##.slider-wrapper
-ieslb.ckwlwdcy.cc##.gotoclick.cursor-pointer > .video-item-img > .mask
+! [DA TAT DE KHONG CHAN VIDEO CHINH] ieslb.ckwlwdcy.cc##.gotoclick.cursor-pointer > .video-item-img > .mask
 ieslb.ckwlwdcy.cc##.gotoclick.cursor-pointer
-ieslb.ckwlwdcy.cc##div.video-item:nth-of-type(1)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] ieslb.ckwlwdcy.cc##div.video-item:nth-of-type(1)
 
 ! 29 thg 11, 2025 https://www.chotot.com
 www.chotot.com##.aw__s1v85pbv.ct-appwrapper.showSafetyM
 
 ! 29 thg 11, 2025 https://cvmts.nqnfotl.xyz
-cvmts.nqnfotl.xyz##.gotoclick.cursor-pointer > .video-item-img > .mask
+! [DA TAT DE KHONG CHAN VIDEO CHINH] cvmts.nqnfotl.xyz##.gotoclick.cursor-pointer > .video-item-img > .mask
 rophim.li##+js(trusted-json-edit-xhr-response, .result.is_vip=true, /user/info)
 
 rophim.li##+js(trusted-json-edit-xhr-response, .result.is_verified=true, /user/info)
@@ -55,9 +55,9 @@ rophim.li##+js(trusted-json-edit-xhr-response, .result.is_verified=true, /user/i
 rophim.li##+js(trusted-json-edit-xhr-response, .result.vip_expires_at=253394586000, /user/i
 
 ! 23 thg 12, 2025 https://yzkgh.xwziesu.xyz
-yzkgh.xwziesu.xyz##.tjtagmanager.cursor-pointer > .video-item-img > .mask
-yzkgh.xwziesu.xyz##.video-item-img > .mask
-yzkgh.xwziesu.xyz##.tjtagmanager.cursor-pointer > .video-item-img > .placeholder-img > .fill-img
+! [DA TAT DE KHONG CHAN VIDEO CHINH] yzkgh.xwziesu.xyz##.tjtagmanager.cursor-pointer > .video-item-img > .mask
+! [DA TAT DE KHONG CHAN VIDEO CHINH] yzkgh.xwziesu.xyz##.video-item-img > .mask
+! [DA TAT DE KHONG CHAN VIDEO CHINH] yzkgh.xwziesu.xyz##.tjtagmanager.cursor-pointer > .video-item-img > .placeholder-img > .fill-img
 
 ! 5 thg 1, 2026 https://cap3.sex
 cap3.sex##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z-\[9999\].inset-0.fixed
@@ -73,11 +73,11 @@ cap3.life##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z
 
 ! 7 thg 2, 2026 https://heiliao.com
 heiliao.com##.event-notice > .modal
-heiliao.com##.tjtagmanager.cursor-pointer > .video-item-img > .mask
-heiliao.com##.tjtagmanager.cursor-pointer > .video-item-img > .placeholder-img > .fill-img
-heiliao.com##.tjtagmanager.cursor-pointer > .video-item-img > .placeholder-img
-heiliao.com##.tjtagmanager.cursor-pointer
-heiliao.com##div.video-item:nth-of-type(20)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##.tjtagmanager.cursor-pointer > .video-item-img > .mask
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##.tjtagmanager.cursor-pointer > .video-item-img > .placeholder-img > .fill-img
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##.tjtagmanager.cursor-pointer > .video-item-img > .placeholder-img
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##.tjtagmanager.cursor-pointer
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(20)
 heiliao.com##.addbox
 heiliao.com##.slider-wrapper
 
@@ -139,26 +139,26 @@ www.nhatot.com##.ct_sbp__pijkp77
 51cg1.com##.horizontal-block
 
 ! Jul 29, 2026 https://heiliao.com
-heiliao.com##div.video-item:nth-of-type(1)
-heiliao.com##div.video-item:nth-of-type(2)
-heiliao.com##div.video-item:nth-of-type(3)
-heiliao.com##div.video-item:nth-of-type(4)
-heiliao.com##div.video-item:nth-of-type(5)
-heiliao.com##div.video-item:nth-of-type(6)
-heiliao.com##div.video-item:nth-of-type(7)
-heiliao.com##div.video-item:nth-of-type(8)
-heiliao.com##div.video-item:nth-of-type(9)
-heiliao.com##div.video-item:nth-of-type(10)
-heiliao.com##div.video-item:nth-of-type(12)
-heiliao.com##div.video-item:nth-of-type(14)
-heiliao.com##div.video-item:nth-of-type(16)
-heiliao.com##div.video-item:nth-of-type(18)
-heiliao.com##div.video-item:nth-of-type(20)
-heiliao.com##div.video-item:nth-of-type(22)
-heiliao.com##div.video-item:nth-of-type(24)
-heiliao.com##div.video-item:nth-of-type(26)
-heiliao.com##div.video-item:nth-of-type(28)
-heiliao.com##div.video-item:nth-of-type(30)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(1)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(2)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(3)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(4)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(5)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(6)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(7)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(8)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(9)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(10)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(12)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(14)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(16)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(18)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(20)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(22)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(24)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(26)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(28)
+! [DA TAT DE KHONG CHAN VIDEO CHINH] heiliao.com##div.video-item:nth-of-type(30)
 
 ! ====================================================
 ! QUY TAC TONG QUAT & TOI UU HOA HE THONG (GENERIC RULES)
