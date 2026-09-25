@@ -1,0 +1,39 @@
+name: Auto-Compile & Update Filters
+
+on:
+  schedule:
+    # Runs at 03:00 UTC every day (~10:00 AM VN)
+    - cron: '0 3 * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run Filter Compilation & Deduplication
+        run: |
+          python scripts/compile_filters.py
+
+      - name: Commit and Push if updated
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add filters_all_in_one.txt
+          if git diff --staged --quiet; then
+            echo "No changes in filter lists."
+          else
+            git commit -m "chore(auto): update consolidated all-in-one filter list [skip ci]"
+            git push origin main
+          fi
