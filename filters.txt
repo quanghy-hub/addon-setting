@@ -1,0 +1,109 @@
+! Title: My Custom Filters
+! Description: Personal static filters for uBlock Origin
+! Homepage: https://github.com/quanghy-hub/ublock-filters
+! Expires: 1 days
+! ----------------------------------------------------
+
+! 24 thg 2, 2025 https://www.91porn.com
+||fans.91selfie.com/fans/$image
+
+! 4 thg 5, 2025 https://phe69.vip
+phe69.vip###ad-banner
+
+! 14 thg 7, 2025 https://chat.qwen.ai
+chat.qwen.ai##.z-40.dark\:bg-\[\#2A2A2A\].py-2.px-4.bg-\[\#F7F8FC\]
+
+! 21 thg 7, 2025 https://viet69.am
+viet69.am##.dp-content
+
+! Sep 16, 2025 https://y6blr.ptbqqtmq.xyz
+y6blr.ptbqqtmq.xyz##.slider-wrapper
+
+! Oct 1, 2025 https://uq8jy.xgkjpuyc.xyz
+||uq8jy.xgkjpuyc.xyz/static/pc/img/national_day_entry_img.png$image
+
+! 18 thg 10, 2025 https://dzrfl.ykipqff.cc
+dzrfl.ykipqff.cc##a.gotoclick.infor > .fill-img
+dzrfl.ykipqff.cc##.gotoclick.cursor-pointer > .video-item-img > .mask
+dzrfl.ykipqff.cc##.gotoclick.cursor-pointer > .video-item-img > .placeholder-img
+dzrfl.ykipqff.cc##div.video-item:nth-of-type(2)
+dzrfl.ykipqff.cc##.gotoclick.cursor-pointer > .video-item-img
+dzrfl.ykipqff.cc##.addbox
+dzrfl.ykipqff.cc##div.video-item:nth-of-type(1)
+
+! 28 thg 11, 2025 https://zmlbf.stslotc.xyz
+zmlbf.stslotc.xyz##.slider-wrapper
+zmlbf.stslotc.xyz##.addbox
+
+! 28 thg 11, 2025 https://ieslb.ckwlwdcy.cc
+ieslb.ckwlwdcy.cc##.event-notice > .modal
+ieslb.ckwlwdcy.cc##.addbox
+ieslb.ckwlwdcy.cc##.slider-wrapper
+ieslb.ckwlwdcy.cc##.gotoclick.cursor-pointer > .video-item-img > .mask
+ieslb.ckwlwdcy.cc##.gotoclick.cursor-pointer
+ieslb.ckwlwdcy.cc##div.video-item:nth-of-type(1)
+
+! 29 thg 11, 2025 https://www.chotot.com
+www.chotot.com##.aw__s1v85pbv.ct-appwrapper.showSafetyM
+
+! 29 thg 11, 2025 https://cvmts.nqnfotl.xyz
+cvmts.nqnfotl.xyz##.gotoclick.cursor-pointer > .video-item-img > .mask
+rophim.li##+js(trusted-json-edit-xhr-response, .result.is_vip=true, /user/info)
+
+rophim.li##+js(trusted-json-edit-xhr-response, .result.is_verified=true, /user/info)
+
+rophim.li##+js(trusted-json-edit-xhr-response, .result.vip_expires_at=253394586000, /user/i
+
+! 23 thg 12, 2025 https://yzkgh.xwziesu.xyz
+yzkgh.xwziesu.xyz##.tjtagmanager.cursor-pointer > .video-item-img > .mask
+yzkgh.xwziesu.xyz##.video-item-img > .mask
+yzkgh.xwziesu.xyz##.tjtagmanager.cursor-pointer > .video-item-img > .placeholder-img > .fill-img
+
+! 5 thg 1, 2026 https://cap3.sex
+cap3.sex##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z-\[9999\].inset-0.fixed
+
+! 12 thg 1, 2026 https://cap3.us
+cap3.us##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z-\[9999\].inset-0.fixed
+
+! 18 thg 1, 2026 https://cap3.online
+cap3.online##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z-\[9999\].inset-0.fixed
+
+! 31 thg 1, 2026 https://cap3.life
+cap3.life##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z-\[9999\].inset-0.fixed
+
+! 7 thg 2, 2026 https://heiliao.com
+heiliao.com##.event-notice > .modal
+heiliao.com##.tjtagmanager.cursor-pointer > .video-item-img > .mask
+heiliao.com##.tjtagmanager.cursor-pointer > .video-item-img > .placeholder-img > .fill-img
+heiliao.com##.tjtagmanager.cursor-pointer > .video-item-img > .placeholder-img
+heiliao.com##.tjtagmanager.cursor-pointer
+heiliao.com##div.video-item:nth-of-type(20)
+heiliao.com##.addbox
+heiliao.com##.slider-wrapper
+
+! 24 thg 4, 2026 https://phe69.de
+phe69.de##.ad-container-js
+
+! 29 thg 4, 2026 https://phe69.nl
+phe69.nl##.ad-container-js
+
+! 25 thg 5, 2026 https://xamvn.buzz
+xamvn.buzz##.float-ck-center-lt
+
+! 15 thg 6, 2026 https://m.youtube.com
+m.youtube.com##.dialog-container
+
+! 21 thg 6, 2026 https://phe69.ws
+
+! 7 thg 7, 2026 https://heiliao.com
+heiliao.com##.popup-form
+heiliao.com##.component-advertises > .van-overlay
+
+! 7 thg 7, 2026 https://51cg1.com
+51cg1.com##.post > div > .horizontal-block
+
+! 6 thg 8, 2026 https://qmh.monster
+||qmh.monster/promo-banner-bg.png$image
+
+! 17 thg 8, 2026 https://cap3.lifestyle
+cap3.lifestyle##.p-4.justify-center.items-center.flex.backdrop-blur-sm.bg-black\/80.z-\[9999\].inset-0.fixed
