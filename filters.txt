@@ -1,6 +1,6 @@
 ! Title: My Custom Filters
 ! Description: Personal static filters for uBlock Origin
-! Homepage: https://github.com/quanghy-hub/ublock-filters
+! Homepage: https://github.com/quanghy-hub/addon-setting
 ! Expires: 1 days
 ! ----------------------------------------------------
 

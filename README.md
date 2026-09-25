@@ -1,17 +1,17 @@
-# Personal uBlock Origin Filters
+# Addon Settings & Filters
 
-Danh sách bộ lọc uBlock Origin cá nhân được lưu trữ và cập nhật qua Git.
+Nơi lưu trữ cấu hình, bộ lọc quảng cáo cho các tiện ích trình duyệt (uBlock Origin, Violentmonkey/Tampermonkey...) được quản lý và đồng bộ qua Git.
 
-## URL đăng ký trong uBlock Origin
+## Bộ lọc uBlock Origin (URL đăng ký)
 
 ### 1. Link jsDelivr CDN (Khuyên dùng - tốc độ cao, không trễ cache):
 ```text
-https://cdn.jsdelivr.net/gh/quanghy-hub/ublock-filters@main/filters.txt
+https://cdn.jsdelivr.net/gh/quanghy-hub/addon-setting@main/filters.txt
 ```
 
 ### 2. Link GitHub Raw trực tiếp:
 ```text
-https://raw.githubusercontent.com/quanghy-hub/ublock-filters/main/filters.txt
+https://raw.githubusercontent.com/quanghy-hub/addon-setting/main/filters.txt
 ```
 
 ## Hướng dẫn thêm vào uBlock Origin:
