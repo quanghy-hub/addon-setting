@@ -158,3 +158,65 @@ heiliao.com##div.video-item:nth-of-type(26)
 heiliao.com##div.video-item:nth-of-type(28)
 heiliao.com##div.video-item:nth-of-type(30)
 
+! ====================================================
+! QUY TAC TONG QUAT & TOI UU HOA HE THONG (GENERIC RULES)
+! ====================================================
+
+! --- 1. VOZ.VN (Chan toan dien Pubpower, Accesstrade, SamItem) ---
+||accesstrade.vn^$domain=voz.vn
+||pubpower.io^$domain=voz.vn
+voz.vn##[src*="accesstrade.vn"]
+voz.vn##.adsbypubpower
+voz.vn##.voz-adSlot
+voz.vn##[data-dest="placeholder"]
+voz.vn##.p-body-sidebar > .block > .block-container:has(.adsbypubpower)
+voz.vn##div[style]:has(.adsbypubpower)
+voz.vn##div.message--post:has(.adsbypubpower)
+
+! --- 2. XAMVN (Ho tro tat ca domain guong xamvn.*) ---
+xamvn.*##.float-contact
+xamvn.*##.float-contact2
+xamvn.*##.float-ck-center-lt
+xamvn.*##.js-notices
+xamvn.*##.p-body-pageContent a[href*="13032026x.com"]
+||13032026x.com^
+||xcdn.cloud^$image,domain=xamvn.*
+
+! --- 3. PHE69 (Ho tro moi TLD: .vip, .nl, .de, .ws, .men, ...) ---
+phe69.*###ad-banner
+phe69.*###phe-overlay-root
+phe69.*##.ad-container-js
+phe69.*##.ad-overlay-js
+phe69.*##.ai-viewport-1
+||phe69.*^*.gif$image
+||phe69.*/wp-content/3rd-ads/$script
+
+! --- 4. HEILIAO & CAC SITE DUNG CHUNG TEMPLATE CMS ---
+! (Tu dong diet sach moi video quang cao bang :has(), khong can go nth-of-type thu cong)
+heiliao.com,ieslb.ckwlwdcy.cc,dzrfl.ykipqff.cc,yzkgh.xwziesu.xyz,cvmts.nqnfotl.xyz##div.video-item:has(.gotoclick)
+heiliao.com,ieslb.ckwlwdcy.cc,dzrfl.ykipqff.cc,yzkgh.xwziesu.xyz,cvmts.nqnfotl.xyz##div.video-item:has(.tjtagmanager)
+heiliao.com,ieslb.ckwlwdcy.cc,dzrfl.ykipqff.cc,yzkgh.xwziesu.xyz,cvmts.nqnfotl.xyz##div.video-item:has(.addbox)
+heiliao.com,ieslb.ckwlwdcy.cc,dzrfl.ykipqff.cc,yzkgh.xwziesu.xyz,cvmts.nqnfotl.xyz##div.video-item:has(a.infor)
+heiliao.com,ieslb.ckwlwdcy.cc,dzrfl.ykipqff.cc,yzkgh.xwziesu.xyz,zmlbf.stslotc.xyz##.slider-wrapper
+heiliao.com,ieslb.ckwlwdcy.cc,dzrfl.ykipqff.cc,yzkgh.xwziesu.xyz,zmlbf.stslotc.xyz##.addbox
+heiliao.com##[class*="component-advertises"]
+heiliao.com##.popup-form
+heiliao.com##.event-notice
+
+! --- 5. 51CG1.COM ---
+51cg1.com##.recommend-wrapper
+51cg1.com##.horizontal-block
+51cg1.com##[class*="banner"]
+51cg1.com##[class*="advert"]
+
+! --- 6. CAP3 (Moi domain: .sex, .us, .online, .life, .lifestyle) ---
+cap3.*##div.fixed.inset-0.backdrop-blur-sm
+cap3.*##div.fixed.inset-0[class*="z-[9999]"]
+
+! --- 7. CHO TOT & NHA TOT (Diet modal popup va banner dong) ---
+chotot.com,nhatot.com##div[class*="showSafetyM"]
+chotot.com,nhatot.com##div[class*="ct_sbp__"]
+chotot.com,nhatot.com##div[class*="StickyBanner"]
+chotot.com,nhatot.com##div[class*="LeadBanner"]
+
+
